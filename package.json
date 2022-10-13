@@ -1,0 +1,18 @@
+{
+  "name": "sa50-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยสัตว์ออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยสัตว์ออนไลน์",
+"การแทงหวยในเว็บ",
+"lottovip เว็บตรง",
+"หวยออนไลน์ ruay",
+"สดหวย"
+],
+  "repository": "https://github.com/setteebet/sa50-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
